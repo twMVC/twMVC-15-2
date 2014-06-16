@@ -26,6 +26,9 @@ ASP.NET MVC 5 with Entity Framework 6 and NLog, use EF6 Logging and Intercepting
 
 ASP.NET MVC 5 with Entity Framework 6, use MiniProfiler
 
+**Sample_ EF6_ Glimpse**
+
+ASP.NET MVC 5 with Entity Framework 6, use Glimpse
 
 ----------
 
