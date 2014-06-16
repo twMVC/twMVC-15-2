@@ -14,12 +14,20 @@ twMVC-15-2
 
 範例程式說明：
 
-MVC5_EF5 - ASP.NET MVC 5 with Entity Framework 5, use Clutch.Diagnostics.EntityFramework
+**MVC5_EF5**
 
-Sample_EF6_Logging_Intercepting - ASP.NET MVC 5 with Entity Framework 6 and NLog, use EF6 Logging and Intercepting
+ASP.NET MVC 5 with Entity Framework 5, use Clutch.Diagnostics.EntityFramework
+
+**Sample_ EF6_ Logging_Intercepting**
+
+ASP.NET MVC 5 with Entity Framework 6 and NLog, use EF6 Logging and Intercepting
+
+**Sample_ EF6_ MiniProfiler**
+
+ASP.NET MVC 5 with Entity Framework 6, use MiniProfiler
 
 
-
+----------
 
 開發環境：Visual Studio 2013
 
